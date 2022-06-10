@@ -5,3 +5,5 @@
   a. if it breaks, uninstall. google / stack overflow
 2. skim over airbnb guide: https://github.com/airbnb/javascript#whitespace
   a. reference material, memorize. note: linter will automatically check your code agaisnt this guide
+
+repo: https://github.com/ccwxp116/visualization_react
